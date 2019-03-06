@@ -2,7 +2,13 @@ Infra
 Developers
 Testers
 Integrator
+
 QA
 Final Release Team
 
 Done my changes
+
+Deliverator
+
+Final Copy
+
