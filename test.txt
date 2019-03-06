@@ -2,4 +2,5 @@ Infra
 Developers
 Testers
 Integrator
-Deliverator
+QA
+Final Release Team
